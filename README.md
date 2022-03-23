@@ -1,0 +1,2 @@
+# Reclame_aqui_WebScraping
+Web Scraping feito para analisar dados retirados de uma lista de rankings, criados no site do Reclame aqui. O reclame aqui criou vários rankings com intuito de classificar as empresas de diferentes formas, como por exemplo, um ranking de melhor índice de solução e um ranking de piores empresas nos últimos 30 dias. Neste Web Scraping, é feita a raspagem do título, as empresas e sua nota em cada ranking e armazenando os dados em um arquivo.
